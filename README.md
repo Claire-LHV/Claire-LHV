@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Claire-LHV.
+- I'm a ✨ Data Enginner at Wisr ✨ 
 - 📫 Connect my [LinkedIn](https://www.linkedin.com/in/claire-hoang-van-le-099166199/).
 
 <!---
